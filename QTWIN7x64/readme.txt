@@ -1,0 +1,1 @@
+Add "QT += charts" for build step
